@@ -24,7 +24,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Killia007/Url-Downloader-Bot)
 
 #### Run in your VPS
 ```sh
