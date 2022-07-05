@@ -1,10 +1,6 @@
 class Translation(object):
 
-    START_TEXT = """Hҽʅʅσ 🙋‍♂️! I αɱ α Pσɯҽϝυʅ Hσƚʂƚαɾ URL Uρʅσαԃҽɾ Bσƚ 😎!
-I ƈαɳ ʂυρρσɾƚ Hσƚʂƚαɾ, Gσσɠʅҽ Dɾιʋҽ, αɳԃ ɱυƈԋ ɱσɾҽ Lιɳƙʂ😌!
-Sҽɳԃ Mҽ Aɳყ Dιɾҽƈƚ Dσɯɳʅσαԃ URL Lιɳƙ, I Cαɳ Uρʅσαԃ Tσ Tҽʅҽɠɾαɱ Aʂ Fιʅҽ/Vιԃҽσ!
-Aԃԃҽԃ Pҽɾɱαɳҽɳƚ TԋυɱႦɳαιʅ Sυρρσɾƚ💯😋!!
-Sυρρσɾƚ Gɾσυρ : @TeleRoid14
+    START_TEXT = """Hello I'm a bot created for @movie_wars Channel
 """
 
     HELP_USER = """It's not that complicated to use meh! 😅
@@ -23,9 +19,9 @@ Support Group : @TeleRoid14
 """
 
 
-    ABOUT_TEXT = """<b>🤖 My Name : @TeleRoid_Hotstar_Bot</b>
+    ABOUT_TEXT = """<b>🤖 Bot By @movie_wars</b>
 
-<b>👨‍💻 Creator : @PredatorHackerzZ_bot</b>
+<b>👨‍💻 Creator : @movie_wars</b>
 
 <b>📝 Language : Python3</b>
 
@@ -33,13 +29,8 @@ Support Group : @TeleRoid14
 
 <b>📔 Library : Pyrogram 1.0.7</b>
 
-<b>📌 Source Code : 👉 <a href='https://github.com/P-Phreak/URLuploader-With-Hotstar'>Click Here</a></b>
+<b> Channel : 👉 <a href='https://t.me/movie_wars'> Channel </a></b>
 
-<b>🛑 Discussion : 👉 <a href='https://t.me/TeleRoid14'> Support Group </a></b>
-
-<b>⭕ Updates : 👉 <a href='https://t.me/TeleRoidGroup'> Channel Group </a></b>
-
-<b>💎 Telegram Botlist : <a href='https://t.me/TGRobot_List'> TGRobot_List </a></b>"""
 
 
 
@@ -55,14 +46,12 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @TheTeleRoid And Service Feel Free To Donate...Us 🥰</b>
-  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@PredatorHackerzZ_bot...."""
     
-    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@TheTeleRoid14"
+    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇"
     
     UPLOAD_START = "Trying to upload.....📤"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @TheTeleRoid and @TGRobot_List"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @movie_wars"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nAre You Fool, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
@@ -72,7 +61,7 @@ URL | newfilename | username | password"""
 
     CUSTOM_CAPTION_UL_FILE = " "
 
-    SLOW_URL_DECED = "Fucking Fool! This seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "Fucking Fool! This seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file."
 
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     
