@@ -19,20 +19,6 @@ Support Group : @TeleRoid14
 """
 
 
-    ABOUT_TEXT = """<b>🤖 Bot By @movie_wars</b>
-
-<b>👨‍💻 Creator : @movie_wars</b>
-
-<b>📝 Language : Python3</b>
-
-<b>📡 Server : <a href='https://www.heroku.com'> Heroku </a></b>
-
-<b>📔 Library : Pyrogram 1.0.7</b>
-
-<b> Channel : 👉 <a href='https://t.me/movie_wars'> Channel </a></b>
-
-
-
 
     FORMAT_SELECTION = """<b>Choose appropriate option</b> <a href='{}'>⬇️</a>
 🎞  - Stream format
